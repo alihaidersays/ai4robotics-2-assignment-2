@@ -3,6 +3,16 @@
 ###### 1. *Muhammad Ali Haider Dar, 5046263@studenti.unige.it*
 ###### 2. *Syed Hasan Shozab Abidi, 4929631@studenti.unige.it*
 
+# Title
+
+## Artificial Intelligence for Robotics II - Assignment I 
+1. Muhammad Ali Haider Dar, _[5046263@studenti.unige.it](mailto:5046263@studenti.unige.it)_
+2. Muhammad Ali Haider Dar, _[4929631@studenti.unige.it](mailto:4929631@studenti.unige.it)_
+
+MSc Robotics Engineering, University of Genoa, Italy
+
+Instructor: [Prof. Fulvio Mastrogiovanni](https://rubrica.unige.it/personale/UkNHWFhr)
+
 # Assignment 02: Task and Motion Planning
 
 This project is an extension of the first assignment of this Artificial Intelligence for Robotics II (AIRo2) course, in which we got familiar with the operational usage of an AI task planner and tested our understanding by developing a planning model for a robotic coffee shop. In this project, we used the same abstract scenario of the robotic coffee shop in order to get familiarized with the idea of modeling integrated task and motion planning problems in a belief space.
