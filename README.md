@@ -2,7 +2,7 @@
 
 ## Artificial Intelligence for Robotics II - Assignment I 
 1. Syed Hasan Shozab Abidi, _[4929631@studenti.unige.it](mailto:4929631@studenti.unige.it)_
-2. 2. Muhammad Ali Haider Dar, _[5046263@studenti.unige.it](mailto:5046263@studenti.unige.it)_
+2. Muhammad Ali Haider Dar, _[5046263@studenti.unige.it](mailto:5046263@studenti.unige.it)_
 
 MSc Robotics Engineering, University of Genoa, Italy
 
