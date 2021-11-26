@@ -10,11 +10,13 @@ Instructor: [Prof. Fulvio Mastrogiovanni](https://rubrica.unige.it/personale/UkN
 
 ## Overview
 
-This project is an extension of the [first assignment](https://github.com/alihaidersays/ai4robotics-2-assignment-1) of Artificial Intelligence for Robotics II course, in which we got familiar with the operational usage of an AI task planner and tested our understanding by developing a planning model for a robotic coffee shop. In this project, we used the same abstract scenario of the robotic coffee shop in order to get familiarized with the idea of modeling integrated task and motion planning problems in a belief space.
+This project is an extension of the [first assignment](https://github.com/alihaidersays/ai4robotics-2-assignment-1) of Artificial Intelligence for Robotics II course, in which we got familiar with the operational usage of an AI task planner and tested our understanding by developing a planning model for a robotic coffee shop. In this project, we used the same abstract scenario of the robotic coffee shop in order to get familiarized with the idea of modeling integrated task and motion planning problems in a belief space. The entire project can be found in this repository along with the instructions to compile it.
 
 ## Task and Motion Planning
 
-The context of the assignment is the same, there is a waiter robot which is assigned with a task to serve the orders to the respective customers by visiting their coffee tables in an optimal way. The optimality is based on the distance travelled by the robot. Therefore, the robot has to reason on the discrete sequence of table visits to cover all the regions in the coffee shop. Unlike the previous assignment, we are considering that uncertainties will be involved with the robot’s motion, thus the robot has to navigate and localize itself while travelling from one region to another. Here ‘region’ refers to the table, in a realistic scenario a robot can be anywhere around the table while serving the customers but for simplicity we are considering that all the regions have a single way-point location associated with them in a 2D grid. It means that if the robot reaches the corresponding waypoint location of the region that region will be considered as being visited. The entire project can be found in this repository along with the instructions to compile it.
+The context of the assignment is the same, there is a waiter robot which is assigned with a task to serve the orders to the respective customers by visiting their coffee tables in an optimal way. The optimality is based on the distance travelled by the robot. Therefore, the robot has to reason on the discrete sequence of table visits to cover all the regions in the coffee shop. 
+
+Unlike the previous assignment, we are considering that uncertainties will be involved with the robot’s motion, thus the robot has to navigate and localize itself while travelling from one region to another. Here ‘region’ refers to the table, in a realistic scenario a robot can be anywhere around the table while serving the customers but for simplicity we are considering that all the regions have a single way-point location associated with them in a 2D grid. It means that if the robot reaches the corresponding waypoint location of the region that region will be considered as being visited. 
 
 ## Running the Project
 
@@ -27,7 +29,7 @@ Therefore, to edit the planning files you need to mount a shared directory betwe
 docker run -dit -v path/in_your/host/folder:path/in/docker_container/folder --name your_name hypothe/ai4ro2_2
 ```
 
-However the easiest way to run the project is to use this docker image which is developed by Marco Gabriele Fedozzi.
+However the easiest way to run the project is to use this docker image which is developed by our colleague, Marco Gabriele Fedozzi.
 ```
 https://hub.docker.com/r/hypothe/ai4ro2_2
 ```
