@@ -51,7 +51,7 @@ If the external module is built correctly, the planner should run without any er
 
 ![image](https://user-images.githubusercontent.com/61094879/130298228-e1e0d32a-8c56-4215-9ae9-1eff2e5adf00.png)
 
-## Acknowledgements:
+## Acknowledgements
 
 We would like to extend our gratitude to:
 1. [Dr. Antony Thomas](https://www.researchgate.net/profile/Antony-Thomas-3), for providing the basic setup of the system, including domain and external planner files for us to build further on.
