@@ -10,7 +10,7 @@ Instructor: [Prof. Fulvio Mastrogiovanni](https://rubrica.unige.it/personale/UkN
 
 ## Overview
 
-This project is an extension of the [first assignment](https://github.com/alihaidersays/ai4robotics-2-assignment-1) of Artificial Intelligence for Robotics II course, in which we got familiar with the operational usage of an AI task planner and tested our understanding by developing a planning model for a robotic coffee shop. In this project, we used the same abstract scenario of the robotic coffee shop in order to get familiarized with the idea of modeling integrated task and motion planning problems in a belief space. The entire project can be found in this repository along with the instructions to compile it.
+This project is an extension of the [first assignment](https://github.com/alihaidersays/ai4robotics-2-a1) of Artificial Intelligence for Robotics II course, in which we got familiar with the operational usage of an AI task planner and tested our understanding by developing a planning model for a robotic coffee shop. In this project, we used the same abstract scenario of the robotic coffee shop in order to get familiarized with the idea of modeling integrated task and motion planning problems in a belief space. The entire project can be found in this repository along with the instructions to compile it.
 
 ## Description
 
