@@ -1,8 +1,3 @@
-# Artificial Intelligence for Robotics II
-##### Submitted by: 
-###### 1. *Muhammad Ali Haider Dar, 5046263@studenti.unige.it*
-###### 2. *Syed Hasan Shozab Abidi, 4929631@studenti.unige.it*
-
 # Title
 
 ## Artificial Intelligence for Robotics II - Assignment I 
@@ -48,7 +43,7 @@ If the external module is built correctly, the planner should run without any er
 ## Acknowledgements:
 
 We would like to extend our gratitude to:
-1. Dr. Antony Thomas, for providing the basic setup of the system, including domain and external planner files for us to build further on.
+1. [Dr. Antony Thomas](https://www.researchgate.net/profile/Antony-Thomas-3), for providing the basic setup of the system, including domain and external planner files for us to build further on.
 2. Marco Gabriele Fedozzi, for helping out with the docker image loaded with all dependencies.
 
 
