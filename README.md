@@ -1,4 +1,4 @@
-# Robotic Coffee Shop | Task and Motion Planning
+# Robot Coffee Shop | Task and Motion Planning
 
 ## Artificial Intelligence for Robotics II - Assignment II
 1. Syed Hasan Shozab Abidi, _[4929631@studenti.unige.it](mailto:4929631@studenti.unige.it)_
